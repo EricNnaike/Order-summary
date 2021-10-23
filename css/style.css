@@ -18,7 +18,7 @@
 }
 .card{
     background-color: white;
-    box-shadow: 1px 5px 15px rgb(189, 188, 188), -1px -5px 15px rgb(189, 188, 188);
+    box-shadow: 1px 5px 20px rgb(134, 134, 134), -1px -5px 20px rgb(134, 134, 134);
     flex-wrap: wrap;
     margin: auto;
     max-width: 500px;
